@@ -2,27 +2,27 @@
 ![IMG_20220320_184923_554](https://telegra.ph/file/c0cd501fd8efe8fc25eeb.jpg)
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Maxxy Botz">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Rifqi Botz">
 
 </p>
-<h1 align="center">🎧 Kahfi-XD</h1>
+<h1 align="center">🎧 Rifqi-XD</h1>
 <p align="center">
-  <a href="https://github.com/Kahfi-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy+Bot;My+Name+is+🎧 Kahfi+Bot;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/Fazax2"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy+Bot;My+Name+is+🎧 Kahfi+Bot;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-<a href="https://github.com/Kahfi-XD"><img title="Author" src="https://img.shields.io/badge/Kahfi-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Fazax22"><img title="Author" src="https://img.shields.io/badge/Kahfi-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
-  <a href="https://wa.me/6285380166282">If there is a need, you can directly chat with me </a>
+  <a href="https://wa.me/6288228085134">If there is a need, you can directly chat with me </a>
 </h4>
 </p>
 
 
 ## ```📱 ABOUT ME```
 ```bash
-- 👋 Hello, I’m @Kahfi-XD
+- 👋 Hello, I’m @Rfqifzaxx
 - 👀 I’m interested in the media
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try
@@ -31,30 +31,23 @@
 
 ## ```📱 FOLLOW SOSIAL MEDIA ME```
 <p align="center">
-<a href="https://instagram.com/Kahfixd01"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285380166282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE KAHFI OFFICIAL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
-<a href="https://www.tiktok.com/@kahfifttiktok"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+<a href="https://instagram.com/mrifqifaza"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6288228085134"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/Fazax2"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
 ## ```📱 SUPPORT DENGAN CARA DONASI```
 
-- [`DANA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
-- [`PULSA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
-> Jika ingin berdonasi lewat link
-> Klik [ SAWERIA ](https://saweria.co/kahfiaja)
+- [`DANA`](https://wa.me/6288228085134?text=banh+ini+nomor+nya+kah+088228085134+?)
+- [`PULSA`](https://wa.me/6288228085134?text=banh+ini+nomor+nya+kah+088228085134+?)
 
-## ```📱 GROUP BOT```
-
-- [`GROUP WA BOT¹`](https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI)
-- [`GROUP WA BOT²`](https://chat.whatsapp.com/CcfG9mg5Vxc9vdV6RfwVmc)
   
-## ```📱 WHATSAPP KAHFI OFFICIAL```
+## ```📱 WHATSAPP Fazaxx22 OFFICIAL```
   CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP KAHFI OFFICIAL`](https://wa.me/6285380166282?text=Assalamualaikum+Banh+KAHFI+OFFICIAL)
+- [`WHATSAPP faza OFFICIAL`](https://wa.me/6288228085134?text=Assalamualaikum+Banh+faza+OFFICIAL)
 
 ## ```📮 CREATOR BOT```
- [![Kahfi Official](https://github.com/Kahfi-XD.png?size=200)](https://github.com/Kahfi-XD) 
+ [![Rfqi Official](https://github.com/Fazax22.png?size=200)](https://github.com/Fazax22) 
 ---->
 [Kahfi-XD](https://github.com/kahfi-XD) 
  CREATOR
@@ -84,11 +77,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfiofc&theme=vue">
 
 
-## ```📮 AUTHOR```
+## ```📮 AUTHOR collaboration```
  
-  [KAHFI-XD](https://github.com/Kahfi-XD)
- AUTHOR
+  [Fazax22](https://github.com/Fazax22)
+   AUTHOR
+  [Rifqi](https://github.com/Rifqi33)
+   AUTHOR
 
 <!---
-I LOVE YOU GUYS
+SEE YOUU HEHEHEHEH :3
 --->
