@@ -52,7 +52,7 @@
 [Fazax22](https://github.com/Fazax22)
   AUTHOR
   
-## ```📮 Faza-XD STATISTICS```
+## ```📮 Faza-XD & Rifqi tzy STATISTICS```
 
 [![Fazax22 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faza-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Rifqi33 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rifqi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
@@ -62,7 +62,7 @@
  <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=KrizynOfc)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rifqi33)
 
 </details>
 
