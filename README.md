@@ -7,11 +7,11 @@
 </p>
 <h1 align="center">🎧 Rifqi-XD</h1>
 <p align="center">
-  <a href="https://github.com/Fazax2"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy+Bot;My+Name+is+🎧 Kahfi+Bot;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/Fazax2"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Rifqi+Bot;My+Name+is+🎧 Faza;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-<a href="https://github.com/Fazax22"><img title="Author" src="https://img.shields.io/badge/Kahfi-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Fazax22"><img title="Author" src="https://img.shields.io/badge/FAZA-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
@@ -49,15 +49,15 @@
 ## ```📮 CREATOR BOT```
  [![Rfqi Official](https://github.com/Fazax22.png?size=200)](https://github.com/Fazax22) 
 ---->
-[Kahfi-XD](https://github.com/kahfi-XD) 
- CREATOR
+[Fazax22](https://github.com/Fazax22)
+  AUTHOR
   
 ## ```📮 Ikyy-XD STATISTICS```
 
 [![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahfi-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kahfi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
-  ## ```📮 Ikyy STATUS```
+  ## ```📮 FAZA STATUS```
   
  <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
