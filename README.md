@@ -52,10 +52,10 @@
 [Fazax22](https://github.com/Fazax22)
   AUTHOR
   
-## ```📮 Ikyy-XD STATISTICS```
+## ```📮 Faza-XD STATISTICS```
 
-[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahfi-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kahfi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Fazax22 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faza-XD&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Rifqi33 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Rifqi-XD&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
   ## ```📮 FAZA STATUS```
   
