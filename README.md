@@ -73,7 +73,7 @@
 
 </details> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Kahfiofc&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Fzaax22&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahfiofc&theme=vue">
 
 
