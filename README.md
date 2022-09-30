@@ -1,5 +1,5 @@
 - <h1 align="center">📱 WELCOME TO MY GITHUB 👋</h1>
-![IMG_20220320_184923_554](https://telegra.ph/file/677780c08cc83059ac934.jpg)
+![IMG_20220320_184923_554](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ayosemarang.com%2Fumum%2Fpr-773142009%2F7-anime-seru-dengan-tema-otaku-layak-ditonton-pada-2022&psig=AOvVaw0yTVVX9VMXrpSux01mUnbZ&ust=1664635353265000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDJz5vgvPoCFQAAAAAdAAAAABAE)
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Rifqi Botz">
